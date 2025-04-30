@@ -38,7 +38,7 @@
 ### 🐍 My Contributions
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alokachamod/Alokachamod/output/github-contribution-grid-snake.svg" />
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alokachamod/Alokachamod/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
