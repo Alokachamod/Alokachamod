@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Aloka Dev
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Web+Development+Enthusiast;AI+%26+MERN+Stack+Learner;Freelancer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Web+Development+Enthusiast;AI+%26+MERN+Stack+Learner;Freelancer;Researcher;Content+Creator" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
