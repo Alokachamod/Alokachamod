@@ -9,7 +9,7 @@
 - 🔭 I'm currently working on **Web Development projects and Freelancing**
 - 📚 I'm currently learning **Artificial Intelligence and MERN Stack**
 - 💬 Ask me about **Web Development**
-- ✉️ How to reach me: [Insert your preferred contact method]
+- ✉️ How to reach me: www.alokadev.dev
 
 ## 🛠️ Languages and Tools
 <p align="center">
