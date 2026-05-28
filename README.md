@@ -11,8 +11,8 @@
   <a href="https://www.youtube.com/@AlokaTekTeach">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="www.linkedin.com/in/alokadev" />
+  <a href="www.linkedin.com/in/alokadev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br/>
   <br/>
