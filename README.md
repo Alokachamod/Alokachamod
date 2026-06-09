@@ -1,79 +1,188 @@
 <div align="center">
-  <!-- Animated Cyber-Cylinder Header -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=160&section=header&text=Aloka%20Dev&fontSize=70&fontAlignY=50&animation=fadeIn&desc=Software%20Engineer%20%7C%20Tech%20Creator%20%7C%20Innovator&descAlignY=75&descSize=20" width="100%" alt="Header" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    HEADER — CYLINDER BANNER                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:003554,100:00E5FF&height=200&section=header&text=Aloka%20Dev&fontSize=80&fontColor=00E5FF&fontAlignY=52&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20Tech%20Creator%20%E2%80%A2%20Innovator&descAlignY=72&descSize=18&descColor=AAEEFF" width="100%" alt="Header" />
+
 </div>
 
-<div align="center">
-  <!-- Futuristic Animated Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=00E5FF&background=00000000&center=true&vCenter=true&width=800&lines=Architecting+Routzi+V2.0+%26+Swexzo;Founder+of+NoviSe+%7C+Tech+Content+Creator;Exploring+AI+Agents,+Flutter,+%26+IoT;Dreaming+of+a+Tech+Sri+Lanka;Researching+Quantum+Physics+%26+Dark+Matter" alt="Typing Animation" />
-</div>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     TYPING ANIMATION                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <br />
-  <!-- Floating Modern Badges -->
-  <a href="https://github.com/Alokachamod">
-    <img src="https://img.shields.io/github/followers/Alokachamod?style=for-the-badge&color=00E5FF&logo=github&logoColor=black&labelColor=111111" alt="Followers" />
-  </a>
-  <a href="https://www.youtube.com/@AlokaTekTeach">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=111111" alt="YouTube" />
-  </a>
-  <a href="https://www.linkedin.com/in/alokadev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn" />
-  </a>
-  <a href="https://www.alokadev.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Live-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=111111" alt="Portfolio" />
-  </a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&pause=1200&color=00E5FF&background=00000000&center=true&vCenter=true&width=850&lines=⚡+Architecting+Routzi+V2.0+%26+Swexzo;🏢+Founder+of+Alokadev+%7C+Tech+Content+Creator;🤖+Exploring+AI+Agents%2C+Flutter%2C+%26+IoT;🇱🇰+Dreaming+of+a+Tech-First+Sri+Lanka;⚛️+Researching+Quantum+Physics+%26+Dark+Matter" alt="Typing Animation" />
+
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     SOCIAL BADGES                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![GitHub Followers](https://img.shields.io/github/followers/Alokachamod?style=for-the-badge&color=00E5FF&logo=github&logoColor=black&labelColor=0d1117&label=Follow)](https://github.com/Alokachamod)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://www.youtube.com/@AlokaTekTeach)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/alokadev)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-alokadev.dev-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117)](https://www.alokadev.dev)
+
+</div>
+
+<br/>
 
 ---
 
-### 🚀 **The Journey**
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   ABOUT ME — THE JOURNEY                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-- 🔭 **Currently Architecting:** [Routzi V2.0](https://www.alokadev.dev) (Targeting Aug 2026 release) & Swexzo under **NoviSe**.
-- 💡 **Exploring & Learning:** AI Agents (Google AI Studio, Cursor), Flutter, Drone Tech, and IoT integrations.
-- 🎓 **Academics:** Software Engineering Undergraduate (FIT @ UCSC & iCET).
-- 🎯 **Vision:** Cultivating a specialized Tech & Energy Innovation Ecosystem in Sri Lanka 🇱🇰.
-- ⚛️ **Beyond Code:** Deep diving into Dark Matter, Quantum Physics, and winding down with music and singing!
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alokachamod&layout=donut&theme=transparent&title_color=00E5FF&text_color=AAEEFF&border_color=00E5FF&hide_border=false&langs_count=6" width="280" alt="Top Languages" />
+
+### `> whoami`
+
+```yaml
+name        : Aloka Chamod
+role        : Software Engineer & Founder
+company     : Alokadev
+location    : Sri Lanka 🇱🇰
+status      : Building Routzi V2.0 (ETA Aug 2026)
+```
+
+**🚀 Currently Architecting:**  
+[Routzi V2.0](https://www.alokadev.dev) & **Swexzo** — both under the **Alokadev** umbrella.
+
+**💡 Exploring:**  
+AI Agents · Google AI Studio · Cursor · Flutter · Drone Tech · IoT Integrations
+
+**🎓 Academics:**  
+Software Engineering Undergraduate — *FIT @ UCSC & iCET*
+
+**🎯 Vision:**  
+Cultivating a specialized **Tech & Energy Innovation Ecosystem** in Sri Lanka.
+
+**⚛️ Beyond Code:**  
+Dark Matter · Quantum Physics · Music & Singing
+
+<br clear="right"/>
 
 ---
 
-### ⚡ **Tech Ecosystem**
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH ECOSYSTEM                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### `> tech --list`
 
 <div align="center">
-  <!-- Staggered Animated Skill Icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,figma,flutter&perline=8&theme=dark" alt="FrontEnd and Mobile" style="margin-bottom: 8px;" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,mysql,git,vscode,android&perline=8&theme=dark" alt="Backend and Tools" />
-  </a>
+
+**Frontend & Mobile**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,figma,flutter&perline=8&theme=dark" alt="Frontend & Mobile Stack" />
+</a>
+
+<br/><br/>
+
+**Backend & Tooling**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,mysql,git,vscode,android&perline=8&theme=dark" alt="Backend & Tools Stack" />
+</a>
+
 </div>
 
+<br/>
+
 ---
 
-### 📈 **Live Analytics & Telemetry**
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB ANALYTICS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### `> stats --live`
 
 <div align="center">
-  <!-- Animated Contribution Activity Line Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alokachamod&bg_color=00000000&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  
-  <br/><br/>
-  
-  <!-- Subtle Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Alokachamod&style=for-the-badge&color=00E5FF&labelColor=111111&label=SYSTEM+VISITS" alt="Profile views"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alokachamod&show_icons=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=AAEEFF&border_color=00E5FF&hide_border=false&rank_icon=github" width="48%" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alokachamod&theme=transparent&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=AAEEFF&dates=AAEEFF&border=00E5FF&stroke=00E5FF" width="48%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alokachamod&bg_color=0d1117&color=00E5FF&line=00E5FF&point=FFFFFF&area_color=003554&area=true&hide_border=false&border_color=00E5FF&radius=8" width="98%" alt="Contribution Activity Graph" />
+
+<br/><br/>
+
+<!-- Profile View Counter -->
+<img src="https://komarev.com/ghpvc/?username=Alokachamod&style=for-the-badge&color=00E5FF&labelColor=0d1117&label=SYSTEM+VISITS" alt="Profile Views" />
+
 </div>
 
+<br/>
+
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### `> projects --featured`
+
 <div align="center">
-  <h3>📬 Open to Collaborations & Open Source</h3>
-  <p>
-    <a href="mailto:contact@alokadev.dev">
-        <img src="https://img.shields.io/badge/Ping_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/>
-    </a>
-  </p>
-  
-  <br/>
-  
-  <!-- Animated Footer Wave matching the Aurora Theme -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Animated Footer Wave" />
+
+[![Routzi V2.0](https://github-readme-stats.vercel.app/api/pin/?username=Alokachamod&repo=Routzi&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=AAEEFF&border_color=00E5FF)](https://github.com/Alokachamod)
+&nbsp;
+[![Swexzo](https://github-readme-stats.vercel.app/api/pin/?username=Alokachamod&repo=Swexzo&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=AAEEFF&border_color=00E5FF)](https://github.com/Alokachamod)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ACHIEVEMENT TROPHIES                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### `> achievements --unlocked`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alokachamod&theme=algolia&no-frame=false&no-bg=true&row=1&column=7&margin-w=4" width="100%" alt="Trophies" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT / CTA                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `> connect --open`
+
+*Open to collaborations, open source, and building the future of Sri Lanka's tech scene.*
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Ping_Me-contact@alokadev.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:contact@alokadev.dev)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/See_My_Work-alokadev.dev-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117)](https://www.alokadev.dev)
+
+<br/><br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:003554,100:0d0d0d&height=120&section=footer" width="100%" alt="Footer Wave" />
+
 </div>
