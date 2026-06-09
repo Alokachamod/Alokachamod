@@ -175,46 +175,7 @@ Dark Matter · Quantum Physics · Music & Singing
 
 </div>
 
-> ⚙️ **Setup:** Create `.github/workflows/snake.yml` in this repo — see instructions below ↓
 
-<details>
-<summary><b>🐍 Click to reveal Snake workflow setup</b></summary>
-
-Create this file at `.github/workflows/snake.yml` in your profile repo (`Alokachamod/Alokachamod`):
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <br/>
 
