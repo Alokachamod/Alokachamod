@@ -1,239 +1,89 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,12,24&height=220&section=header&text=Aloka%20Dev&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Founder%20%C2%B7%20Tech%20Creator&descSize=18&descAlignY=60" width="100%" alt="Aloka Dev" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    HEADER BANNER                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <a href="https://www.alokadev.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=620&lines=Building+Routzi+V2.0+%26+Swexzo;Founder+of+Alokadev;Exploring+AI+agents%2C+Flutter+%26+IoT;Making+tech+content+for+Sri+Lanka" alt="Typing animation" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:003554,100:00E5FF&height=200&section=header&text=Aloka%20Dev&fontSize=80&fontColor=00E5FF&fontAlignY=52&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20Tech%20Creator%20%E2%80%A2%20Innovator&descAlignY=72&descSize=18&descColor=AAEEFF" width="100%" alt="Header" />
+<p align="center">
+  <a href="https://www.alokadev.dev"><img src="https://img.shields.io/badge/Portfolio-00C896?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.youtube.com/@AlokaTekTeach"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/alokadev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alokachamod3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Alokachamod&style=flat-square&color=00C896&label=Views" alt="Profile views" />
+</p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,6,12,24&height=2&section=header" width="100%" alt="" />
 
-<br/>
+## 👋 About
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TYPING ANIMATION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+I'm a software engineering undergraduate (FIT @ UCSC and iCET) and the founder of **Alokadev**. I build products for Sri Lanka's tourism and tech scene, and I teach and create content for local audiences.
 
-<div align="center">
+| | |
+| :-- | :-- |
+| 🚀 **Building** | Routzi V2.0 · Swexzo |
+| 🧪 **Exploring** | AI agents · Flutter · IoT · Three.js |
+| 🎓 **Studying** | Software Engineering |
+| ⚛️ **Curious about** | Quantum physics · Dark matter |
+| 🌐 **Portfolio** | [alokadev.dev](https://www.alokadev.dev) |
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&pause=1200&color=00E5FF&background=00000000&center=true&vCenter=true&width=850&lines=⚡+Architecting+Routzi+V2.0+%26+Swexzo;🏢+Founder+of+Alokadev+%7C+Tech+Content+Creator;🤖+Exploring+AI+Agents%2C+Flutter%2C+%26+IoT;🇱🇰+Dreaming+of+a+Tech-First+Sri+Lanka;⚛️+Researching+Quantum+Physics+%26+Dark+Matter" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,6,12,24&height=2&section=header" width="100%" alt="" />
 
-</div>
+## 🛠 Stack
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,flutter,figma&perline=8" alt="Frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,php,kotlin,c,cpp,cs,ruby&perline=8" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,docker,kubernetes,git,github,linux,vscode&perline=8" alt="Backend and tools" />
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     SOCIAL BADGES                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,6,12,24&height=2&section=header" width="100%" alt="" />
 
-<div align="center">
+## 📌 Featured
 
-[![GitHub Followers](https://img.shields.io/github/followers/Alokachamod?style=for-the-badge&color=00E5FF&logo=github&logoColor=black&labelColor=0d1117&label=Follow)](https://github.com/Alokachamod)&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://www.youtube.com/@AlokaTekTeach)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/alokadev)&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Ping_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:alokachamod3@gmail.com)
+<p align="center">
+  <a href="https://github.com/Alokachamod/Routzi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Alokachamod&repo=Routzi&theme=transparent&hide_border=false&border_color=00C896&title_color=00C896&icon_color=00C896&text_color=8B949E&border_radius=12" alt="Routzi" /></a>
+  <a href="https://github.com/Alokachamod/Swexzo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Alokachamod&repo=Swexzo&theme=transparent&hide_border=false&border_color=00C896&title_color=00C896&icon_color=00C896&text_color=8B949E&border_radius=12" alt="Swexzo" /></a>
+</p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,6,12,24&height=2&section=header" width="100%" alt="" />
 
-<br/>
+## 📊 Activity
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alokachamod&show_icons=true&theme=transparent&hide_border=false&border_color=00C896&title_color=00C896&icon_color=00C896&text_color=8B949E&border_radius=12&count_private=true" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alokachamod&layout=compact&theme=transparent&hide_border=false&border_color=00C896&title_color=00C896&text_color=8B949E&border_radius=12&langs_count=8" width="49%" alt="Top languages" />
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ABOUT ME — THE JOURNEY                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alokachamod&theme=transparent&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E&border=00C896&stroke=00C89655&card_width=495&border_radius=12" width="49%" alt="Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alokachamod&theme=flat&no-bg=true&no-frame=true&row=1&column=4&margin-w=8" width="49%" alt="Trophies" />
+</p>
 
-### `> whoami`
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alokachamod&bg_color=00000000&color=8B949E&line=00C896&point=ffffff&area=true&area_color=00C896&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
+</p>
 
-```yaml
-name        : Aloka Chamod
-role        : Software Engineer & Founder
-company     : Alokadev
-location    : Sri Lanka 🇱🇰
-status      : Building Routzi V2.0 (ETA Aug 2026)
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,6,12,24&height=2&section=header" width="100%" alt="" />
 
-**🚀 Currently Architecting:**  
-Routzi V2.0 & **Swexzo** — both under the **Alokadev** umbrella.
+## 🐍 Contributions
 
-**💡 Exploring:**  
-AI Agents · Google AI Studio · Cursor · Flutter · Drone Tech · IoT Integrations
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alokachamod/Alokachamod/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alokachamod/Alokachamod/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Alokachamod/Alokachamod/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 
-**🎓 Academics:**  
-Software Engineering Undergraduate — *FIT @ UCSC & iCET*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,6,12,24&height=2&section=header" width="100%" alt="" />
 
-**🎯 Vision:**  
-Cultivating a specialized **Tech & Energy Innovation Ecosystem** in Sri Lanka.
+## 🤝 Contact
 
-**⚛️ Beyond Code:**  
-Dark Matter · Quantum Physics · Music & Singing
+<p align="center">
+  Open to collaborations and open source work.<br/>
+  <a href="mailto:alokachamod3@gmail.com">alokachamod3@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.alokadev.dev">alokadev.dev</a>
+</p>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECH ECOSYSTEM                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `> tech --list`
-
-<div align="center">
-
-**🎨 Frontend & Mobile**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,figma,flutter&perline=8&theme=dark" alt="Frontend & Mobile Stack" />
-</a>
-
-<br/><br/>
-
-**⚙️ Languages**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,kotlin,c,cpp,cs,ruby,php&perline=8&theme=dark" alt="Languages" />
-</a>
-
-<br/><br/>
-
-<!-- Pascal via custom badge since skillicons doesn't have it -->
-<img src="https://img.shields.io/badge/Pascal-007ACC?style=for-the-badge&logo=lazarus&logoColor=white" alt="Pascal" />
-
-<br/><br/>
-
-**🗄️ Database & Backend**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,nodejs,docker,kubernetes&perline=8&theme=dark" alt="Database & Backend" />
-</a>
-
-<br/>
-<img src="https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="HeidiSQL" />
-
-<br/><br/>
-
-**🔧 Tools & DevOps**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,android,linux,github,postman&perline=8&theme=dark" alt="Tools & DevOps" />
-</a>
-
-<br/>
-<img src="https://img.shields.io/badge/DevOps-0d1117?style=for-the-badge&logo=azuredevops&logoColor=00E5FF" alt="DevOps" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB ANALYTICS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `> stats --live`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alokachamod&show_icons=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=AAEEFF&border_color=00E5FF&hide_border=false&rank_icon=github&count_private=true" width="48%" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alokachamod&theme=transparent&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=AAEEFF&dates=AAEEFF&border=00E5FF&stroke=00E5FF" width="48%" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Top Languages — compact table layout, most reliable renderer -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alokachamod&layout=compact&theme=transparent&title_color=00E5FF&text_color=AAEEFF&border_color=00E5FF&hide_border=false&langs_count=10&count_private=true&cache_seconds=1800" width="60%" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alokachamod&bg_color=0d1117&color=00E5FF&line=00E5FF&point=FFFFFF&area_color=003554&area=true&hide_border=false&border_color=00E5FF&radius=8" width="98%" alt="Contribution Activity Graph" />
-
-<br/><br/>
-
-<!-- Profile View Counter -->
-<img src="https://komarev.com/ghpvc/?username=Alokachamod&style=for-the-badge&color=00E5FF&labelColor=0d1117&label=SYSTEM+VISITS" alt="Profile Views" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              🐍 SNAKE COMMIT EATING ANIMATION                 -->
-<!--   Generate via GitHub Actions — add workflow below to repo    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `> contributions --snake`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alokachamod/Alokachamod/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alokachamod/Alokachamod/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Alokachamod/Alokachamod/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `> projects --featured`
-
-<div align="center">
-
-[![Routzi V2.0](https://github-readme-stats.vercel.app/api/pin/?username=Alokachamod&repo=Routzi&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=AAEEFF&border_color=00E5FF)](https://github.com/Alokachamod)
-&nbsp;
-[![Swexzo](https://github-readme-stats.vercel.app/api/pin/?username=Alokachamod&repo=Swexzo&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=AAEEFF&border_color=00E5FF)](https://github.com/Alokachamod)
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ACHIEVEMENT TROPHIES                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `> achievements --unlocked`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alokachamod&theme=algolia&no-frame=false&no-bg=true&row=1&column=7&margin-w=4" width="100%" alt="Trophies" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CONNECT / CTA                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `> connect --open`
-
-*Open to collaborations, open source, and building the future of Sri Lanka's tech scene.*
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Gmail-alokachamod3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:alokachamod3@gmail.com)&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-AlokaTekTeach-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://www.youtube.com/@AlokaTekTeach)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alokadev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/alokadev)
-
-<br/><br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:003554,100:0d0d0d&height=120&section=footer" width="100%" alt="Footer Wave" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,12,24&height=100&section=footer" width="100%" alt="" />
